@@ -1,0 +1,30 @@
+[
+   {
+      "name":"Gamage A S J W",
+      "indexNumber":"MSC1801",
+      "Assignment1":65,
+      "Assignment2":75,
+      "Assignment3":0
+   },
+   {
+      "name":"Silba W A J F",
+      "indexNumber":"MSC1802",
+      "Assignment1":55,
+      "Assignment2":95,
+      "Assignment3":90
+   },
+   {
+      "name":"Perera E M J P",
+      "indexNumber":"MSC1803",
+      "Assignment1":45,
+      "Assignment2":75,
+      "Assignment3":80
+   },
+   {
+      "name":"Seram C W J S",
+      "indexNumber":"MSC1804",
+      "Assignment1":85,
+      "Assignment2":0,
+      "Assignment3":70
+   }
+]
